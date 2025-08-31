@@ -21,7 +21,6 @@
 <img align="right" height="181" src="https://static.tumblr.com/f043c66a0f83f91c7bd9a4e8cdf7e518/9ers11i/E0gp5e4gu/tumblr_static_tumblr_static_3t80oilmubgg84kco8gsswcks_focused_v3.gif"  />
 
 ###
-<h1 align="left">what i learn :</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
