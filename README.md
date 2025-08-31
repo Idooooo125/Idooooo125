@@ -1,4 +1,4 @@
-## Hallo, Saya Ridho👋
+## Hallo, Saya Ridho👋. Saya sekolah di SMKN1PADAHERANG🏫
 
 
 <div align="center">
